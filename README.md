@@ -8,7 +8,7 @@ Hi! I'm Ahlam, a software engineering graduate with experience in web and mobile
 UniStudy App
 A Flutter-based collaborative study group platform with Firebase authentication, MySQL backend, and PHP API integration.  
 **Tech stack:** Flutter, Firebase, PHP, MySQL  
-**GitHub Repo:** [github.com/ahlamz/unistudy](#)
+
 
 ### Engineering Economics Analysis Tool
 An Excel-based decision support model using MEREC-AROMAN methods for ranking cloud providers.  
