@@ -20,7 +20,7 @@ Built and tested a full-stack web portal for data management, performed API test
 ---
 
  💻 Skills
-- Languages: Python, C#, PHP, Dart, JavaScript, SQL
+- Languages: Python, C#, PHP,, JavaScript, SQL
 - Frameworks: Flutter, .NET, React (basic)
 - Tools: Git, Postman, MySQL, Firebase, Excel
 - Interests: AI Integration, Frontend Visualization, Data Engineering
